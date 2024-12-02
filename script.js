@@ -25,3 +25,4 @@ console.log(
   "What concepts were new to you and what concepts had you encountered already in the past?"
 );
 console.log("I haven't encountered anything javascript related before this class, although it was similar to C# I never messed with Javascript and always thought it was the same as Java.");
+
